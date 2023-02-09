@@ -12,8 +12,8 @@
 
 <h3 align="center"> 📊 GitHub Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h3>
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viniciusrogatti&show_icons=true&count_private=true&hide_border=false&title_color=519548&icon_color=00bfbf&text_color=c9d1d9&bg_color=03453d" alt="Marcos Vinicius github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusrogatti&layout=compact&hide_border=false&title_color=519548&text_color=fff&bg_color=03453d" />
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viniciusrogatti&show_icons=true&count_private=true&hide_border=false&title_color=519548&icon_color=00bfbf&text_color=c9d1d9&bg_color=03453d" alt="Marcos Vinicius github stats" /> 
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusrogatti&layout=compact&hide_border=false&title_color=519548&text_color=fff&bg_color=03453d" />
 </div>
 
 </br>
