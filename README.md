@@ -28,5 +28,6 @@ i'm a brazilian Web Development student at Trybe!
   <a href="https://www.linkedin.com/in/viniciusrogatti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+# 📊 GitHub Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 ![](https://github-readme-stats.vercel.app/api?username=viniciusrogatti&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
   
