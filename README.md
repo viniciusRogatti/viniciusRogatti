@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03453d&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=519548&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Marcos+Vinicius;I'm+27+years+old;I+am+from+Campinas,+SP;I+study+Web+Development+at+Trybe;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=519548&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Marcos+Vinicius;I'm+29+years+old;I+am+from+Campinas,+SP;I+study+Web+Development+at+Trybe;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <span >🌱 I’m currently learning <strong>Backend</strong>.</span></br>
+  <span >🌱 Desenvolvedor web full-stack e estudante de Análise e Desenvolvimento de Sistemas. Apaixonado por tecnologia, gosto de criar soluções eficientes e intuitivas, especialmente no frontend com React. Sempre buscando aprender e evoluir.</span></br>
   <span >💬 Ask me about JavaScript, React, <strong>Styled Components</strong>.</span></br>
   <span >💼 Check out my <a href="https://viniciusrogatti.github.io/" target="_blank">portfolio</a>.</span></br>
 </div>
